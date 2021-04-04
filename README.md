@@ -20,7 +20,3 @@
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
 </a>
 <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" height="30"/> </a>
-
-<br/>
-<br/>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minaleedev@gmail.com)](mailto:minaleedev@gmail.com) &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/mina-lee-dev/)](http://www.linkedin.com/in/mina-lee-dev/)
