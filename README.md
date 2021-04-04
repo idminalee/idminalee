@@ -22,7 +22,5 @@
 <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" height="30"/> </a>
 
 <br/>
-<p align="left">
-<a href="https://linkedin.com/in/mina-lee-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedIn" height="20" width="30" /></a>
-<a href="mailto:minaleedev@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="20" width="30" /></a>
-</p>
+<br/>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minaleedev@gmail.com)](mailto:minaleedev@gmail.com) &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/mina-lee-dev/)](http://www.linkedin.com/in/mina-lee-dev/)
