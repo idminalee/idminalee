@@ -1,8 +1,5 @@
-<h2>Hi 👋,&nbsp; I'm Mina.</h1>
-<h4>A frontend developer based in London.</h3>
+<h2>Hi 👋&nbsp; I'm Mina!</h1>
 
-- 👩🏻‍💻 &nbsp; I'm currently looking for a job!
-- 🌱 &nbsp; I’m currently learning **TypeScript, Next.js**
 
 <h4 align="left">Languages and Tools:</h3>
 <p align="left">
